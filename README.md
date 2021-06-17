@@ -8,5 +8,5 @@ Example Uses:
 - Blocking a part of your screen for a youtube video
 - Performing tests with
 - Using the source code as a template for a C# application 
-- Blocking out personaly information during screenshare/video
+- Blocking out personal information during screenshare/video
 - And anything else you think of!
