@@ -1,5 +1,5 @@
 # Multipurpose-Window
-A application that can be used for a few different things.
+An application that can be used for a few different things.
 
 This is a C# Windows Application thats just blank.
 So you can use it for a few different things
