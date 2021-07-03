@@ -1,11 +1,3 @@
-﻿/*
- * Created by SharpDevelop.
- * User: matti
- * Date: 6/16/2021
- * Time: 3:43 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
 namespace MultiPurpose_Window
 {
 	partial class MainForm
